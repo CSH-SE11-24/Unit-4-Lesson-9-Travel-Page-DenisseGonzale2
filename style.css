@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#color{
+	background-color: lightpink;
+}
+#random{
+	margin-left: 10%;
+	padding-right:20%;
+}
+.lol{
+	height:400px;
+	width: 500px;
+	padding-left: 3%;
+}
